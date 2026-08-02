@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-jozs7z.qq1221try.cyou/sitemap.xml
